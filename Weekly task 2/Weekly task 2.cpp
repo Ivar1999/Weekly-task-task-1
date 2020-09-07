@@ -19,7 +19,7 @@ int main()
 		cout << "\nIt seems you like coffee\n\n\n\n";
 	}
 	else {
-		cout << "\nOh you don't like coffee\n\n\n\n\n";
+		cout << "\nOh you don't like coffee\n\n\n\n";
 	}
 	system("pause");
 	system("cls");
